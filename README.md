@@ -1,0 +1,1 @@
+Agregue la funcion de regresar al form principal desde el form 2 y ya todos los botones llevan al form 2 el que tendra el disco y sus animaciones[repos.zip](https://github.com/user-attachments/files/17909035/repos.zip)
